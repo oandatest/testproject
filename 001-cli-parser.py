@@ -3,6 +3,8 @@
 
  How to parse arguments from CLI (command line interface)
 
+ Author: Marian Witkowski 
+
 """
 import sys
 from argparse import ArgumentParser
